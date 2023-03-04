@@ -1,2 +1,5 @@
 faker = "~> 0.14" # fake data generation
 jason = "~> 1.0"
+bumblebee = "~> 0.1.2"
+exla = ">= 0.0.0"
+evision = "~> 0.1.27"
