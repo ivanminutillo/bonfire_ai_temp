@@ -12,5 +12,7 @@ defmodule Bonfire.AI.RuntimeConfig do
 
     config :bonfire_ai,
       disabled: false
+
+    config :nx, default_backend: EXLA.Backend
   end
 end
